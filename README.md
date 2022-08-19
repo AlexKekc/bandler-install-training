@@ -1,1 +1,0 @@
-# bandler-install-training
